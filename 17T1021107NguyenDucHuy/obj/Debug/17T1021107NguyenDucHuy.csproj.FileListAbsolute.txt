@@ -1,0 +1,35 @@
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\17T1021107NguyenDucHuy.exe.config
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\17T1021107NguyenDucHuy.exe
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\17T1021107NguyenDucHuy.pdb
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.dll
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.SqlServer.dll
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.xml
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.SqlServer.xml
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.AssemblyReference.cache
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.Form1.resources
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.Properties.Resources.resources
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.GenerateResource.cache
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.CoreCompileInputs.cache
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.CopyComplete
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.exe
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.pdb
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.frmDanhBa.resources
+D:\New Volume (E)\2021-2022.HK3\Ung Dung\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.Nhóm.resources
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\17T1021107NguyenDucHuy.exe.config
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\17T1021107NguyenDucHuy.exe
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\17T1021107NguyenDucHuy.pdb
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.Form1.resources
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.frmDanhBa.resources
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.Nhóm.resources
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\_17T1021107NguyenDucHuy.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.exe
+C:\Users\PC\Desktop\C#\17T1021107NguyenDucHuy\17T1021107NguyenDucHuy\obj\Debug\17T1021107NguyenDucHuy.pdb
